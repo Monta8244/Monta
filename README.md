@@ -1,2 +1,0 @@
-# Monta
-Hell holberton
